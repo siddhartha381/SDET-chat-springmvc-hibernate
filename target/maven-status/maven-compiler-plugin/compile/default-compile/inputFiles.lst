@@ -1,0 +1,17 @@
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\domain\User.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\dao\MessageDao.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\util\ForbiddenException.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\domain\ChatMessage.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\service\MessageServiceImpl.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\controller\LoginController.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\service\UserServiceImpl.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\service\UserService.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\service\MessageService.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\controller\ProfileController.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\util\OpResult.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\dao\UserDaoImpl.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\util\ResourceNotFoundException.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\controller\AdminController.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\dao\UserDao.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\dao\MessageDaoImpl.java
+C:\Users\Abby\Documents\java videos\chat-springmvc-hibernate-master\chat-springmvc-hibernate-master\src\main\java\com\mpakhomov\chat\controller\HomeController.java
